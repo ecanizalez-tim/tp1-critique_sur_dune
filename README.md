@@ -1,5 +1,5 @@
 # Crée/écrase README.md avec tout le contenu
-cat > README.md <<'EOF'
+
 # TP1 – canizalez_efraim_tp1  
 **Critique de _Dune: Part Two_**  
 Projet réalisé avec **Bootstrap 5** (installé via npm).  
